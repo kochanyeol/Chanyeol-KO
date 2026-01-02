@@ -34,7 +34,7 @@
 
 ### 🛠️ 기술 스택
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4f8e6fe1-ecd2-46b0-9f70-0379278998b7" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b846ca2f-7d80-4fa3-b4dc-c83724a22d3c" />
-<img width="100" height="120" alt="image" src="https://github.com/user-attachments/assets/213b324b-373e-464b-91e3-27796fa0cea4" />
+<img width="100" height="140" alt="image" src="https://github.com/user-attachments/assets/213b324b-373e-464b-91e3-27796fa0cea4" />
 
 
 
