@@ -65,92 +65,37 @@
 - 이 GitHub는 **개인 웹사이트이자 성장 기록**입니다.
 - 꾸준히 업데이트하며 실제 프로젝트 중심으로 채워가고 있습니다 🙂
 
-# Project Title
+# 백엔드 기초 학습 프로젝트
 
-One Paragraph of project description goes here
+이 프로젝트는 백엔드 개발을 처음 배우며  
+웹 서비스가 어떤 흐름으로 동작하는지 이해하기 위해 만든 개인 학습용 프로젝트입니다.
 
-## Getting Started
+---
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## 프로젝트 개요
+- 서버가 요청을 받고 응답하는 기본 구조를 연습합니다.
+- 간단한 기능 구현을 통해 백엔드의 역할을 직접 경험하는 것이 목적입니다.
+- 완성도보다는 **구조 이해와 반복 학습**에 초점을 두었습니다.
 
-### Prerequisites
+## 사용 기술
+- Visual Studio Code(VS CODE)
+- SourceTree
+- Git / GitHub
 
-What things you need to install the software and how to install them
+## 실행 환경
+아래 환경에서 실행을 확인했습니다.
+- Windows
 
-```
-Give examples
-```
+## 현재 상태
+- 기본적인 기능 사용 완료
+- 테스트 코드 및 배포는 포함되어 있지 않습니다.
+- 지속적으로 수정,보완하며 학습 중입니다.
 
-### Installing
+## 작성인
+고찬열
 
-A step by step series of examples that tell you how to get a development env running
+![oz_codingschool_typewriter (1)](https://github.com/user-attachments/assets/85119974-4b34-41e4-9f4d-15b9728b3b38)
 
-Say what the step will be
 
-```
-Give the example
-```
 
-And repeat
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
-</div>
