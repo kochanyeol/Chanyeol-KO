@@ -89,6 +89,9 @@
 
 ## 성장 과정
 
+## 🌐 개인 사이트 미리보기
+
+[![사이트 미리보기](./preview.png)](https://kochaneyol.github.io/Chanyeol-KO/)
 
 
 
