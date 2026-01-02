@@ -87,13 +87,6 @@
 - 테스트 코드 및 배포는 포함되어 있지 않습니다.
 - 지속적으로 수정,보완하며 학습 중입니다.
 
-## 성장 과정
-
-## 🌐 My Site
-
-[![My Site Preview](이미지_URL)](https://kochanyeol.github.io/Chanyeol-KO/)
-
-
 
 
 
