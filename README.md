@@ -1,7 +1,8 @@
 # OZ_BE_17_고찬열
 
 
-<img src="./header.gif" width="100%" />
+![chanyel_header_typewriter](https://github.com/user-attachments/assets/03c95040-1083-4b5d-9a43-f5f8e5bc4136)
+
 
 
 
@@ -26,7 +27,7 @@
 
 <br/>
 
-## 🧱 강의
+## 💘 강의
 
 ### 💬 오즈 코딩스쿨
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e4ef0439-d66d-4ee8-9250-11ba547243bc" />
