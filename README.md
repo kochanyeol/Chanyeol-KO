@@ -32,9 +32,21 @@
 ### 💬 오즈 코딩스쿨
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e4ef0439-d66d-4ee8-9250-11ba547243bc" />
 
+### 🛠️ 기술 스택
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4f8e6fe1-ecd2-46b0-9f70-0379278998b7" />
+
+
 <br/><br/>
 
 ## 📊 GitHub Stats  
+
+아직 준비중입니다.
+
+## 🙍개인 프로젝트
+
+아직 준비중입니다.
+
+## 🧑‍🤝‍🧑협동 프로젝트
 
 아직 준비중입니다.
 
