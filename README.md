@@ -1,7 +1,8 @@
 # OZ_BE_17_고찬열
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0f2027,100:203a43&text=SYSTEM%20INITIALIZED&fontColor=ffffff&fontSize=46&desc=Backend%20%7C%20Data%20%7C%20Web%20Engineering&descAlignY=68&fontAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=rect&height=260&color=0:141e30,100:243b55&text=CHANYEOL%20SYSTEM&fontColor=ffffff&fontSize=44&desc=Thinking%20in%20Code.%20Building%20with%20Logic.&descAlignY=70)
+
 
 
 </div>
