@@ -1,64 +1,63 @@
-# Chanyeol-KOfl<div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+# OZ_BE_17_고찬열
+<div>
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+
 </div>
 
 <div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: 안녕하세요 저는 고찬열입니다<br/>
-  #### :fire: 저는 앞으로 남은 수강기간동안 많은것들을 배우면서 노력하려합니다
-  앞으로 많은 기대 부탁드립니다.<br/>
-  <br/>
-  <br/>
-  
-  ## 🧱 Tech Stack
-  ### Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <br/>
-  
-  ### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-  
-  ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>
-  
-  ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
-  
+## 👀 About Me  
+
+#### 🙋‍♂️ 안녕하세요, 문제를 해결하는 개발자입니다.
+- 사용자 입장에서 **불편함을 발견하고 해결하는 과정**을 좋아합니다.  
+- 단순히 “작동하는 코드”보다 **유지보수와 확장성**을 중요하게 생각합니다.
+
+#### 🔥 목표
+- 백엔드 중심의 **실무형 웹 개발자**
+- 서비스 구조를 이해하고 **혼자서도 MVP를 만들 수 있는 개발자**
+
+#### 🎓 Learning & Growth
+- Python 기반 웹 백엔드
+- Flask / Django를 활용한 서비스 구현
+- Git, Linux, 배포 환경에 대한 이해
+
+<br/>
+
+## 🧱 Tech Stack  
+
+### 💬 Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+
+<br/>
+
+### 🧩 Framework
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+
+<br/>
+
+### 🛠 ETC
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+<br/><br/>
+
+## 📊 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
+
+<br/>
+
+## 📫 Contact & More
+- 이 GitHub는 **개인 웹사이트이자 성장 기록**입니다.
+- 꾸준히 업데이트하며 실제 프로젝트 중심으로 채워가고 있습니다 🙂
+
 </div>
-
-<!--
-** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
