@@ -94,7 +94,8 @@
 ## 작성인
 고찬열
 
-![oz_codingschool_typewriter (1)](https://github.com/user-attachments/assets/85119974-4b34-41e4-9f4d-15b9728b3b38)
+
+<img src="./oz_codingschool_typewriter_fix.gif" width="100%" />
 
 
 
