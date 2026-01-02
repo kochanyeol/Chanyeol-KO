@@ -1,7 +1,8 @@
 # OZ_BE_17_고찬열
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0f2027,100:203a43&text=SYSTEM%20INITIALIZED&fontColor=ffffff&fontSize=46&desc=Backend%20%7C%20Data%20%7C%20Web%20Engineering&descAlignY=68&fontAlignY=42)
+
 
 </div>
 
